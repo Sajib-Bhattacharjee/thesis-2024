@@ -1,5 +1,10 @@
+<div align="center"> 
+  
+# ` Thesis-2024 `
 
-# `   Thesis-2024   `
+</div> 
+<br/>
+
 
 ```node
 In 2024 when I was completing my BSc. Then, I've uploaded the final project research and all other documents here.
